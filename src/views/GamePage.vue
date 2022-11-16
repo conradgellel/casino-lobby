@@ -1,5 +1,4 @@
 <template>
-
   <div class="game-wrapper" v-bind:style="{ backgroundImage: 'url(' + game.game_background + ')' }">
     <div class="container-fluid">
       <div class="game-content">
